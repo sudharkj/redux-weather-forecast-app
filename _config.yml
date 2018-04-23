@@ -1,0 +1,6 @@
+repository: sudharkj/redux-weather-forecast-app
+title: redux-weather-forecast-app
+logo: /assets/img/logo.png
+description: Redux Weather Forecast App
+show_downloads: true
+theme: jekyll-theme-minimal
