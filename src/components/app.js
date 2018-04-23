@@ -6,7 +6,7 @@ import WeatherList from "../containers/weather_list";
 export default () => {
     return (
         <div>
-            <SearchBar />
+            <SearchBar/>
             <WeatherList/>
         </div>
     );
